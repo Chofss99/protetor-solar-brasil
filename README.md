@@ -2,7 +2,9 @@
 
 Preço, acesso e procura por **protetor solar facial** no mercado brasileiro, com dados 100% reais: levantamento próprio de preços, IPCA (IBGE), salário mínimo e Google Trends.
 
-![Python](https://img.shields.io/badge/Python-pandas%20%7C%20matplotlib-2a6f97) ![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-f2c811) ![Status](https://img.shields.io/badge/status-em%20andamento-e07a2e)
+![Python](https://img.shields.io/badge/Python-pandas%20%7C%20matplotlib-2a6f97) [![Power BI](https://img.shields.io/badge/Power%20BI-ver%20dashboard-f2c811)](https://app.powerbi.com/view?r=eyJrIjoiNTJmMTY3ZmYtY2NkMC00MTFiLWJmOWQtYTcxYzNkMmNiOTA5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-2a9d8f)
+
+**[Abrir o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTJmMTY3ZmYtY2NkMC00MTFiLWJmOWQtYTcxYzNkMmNiOTA5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)**
 
 ## Problema
 
@@ -36,6 +38,8 @@ A Sociedade Brasileira de Dermatologia recomenda usar protetor solar **todos os 
 ![Produtos para pele x inflação](images/06_ipca_produto_para_pele.png)
 
 ## Dashboard no Power BI
+
+**[Abrir o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiNTJmMTY3ZmYtY2NkMC00MTFiLWJmOWQtYTcxYzNkMmNiOTA5IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)** (abre no navegador, sem login).
 
 O arquivo `powerbi/protetor_solar.pbix` resume os resultados em quatro páginas, com filtros por faixa de marca, pele oleosa e versão com cor (os filtros valem nas duas primeiras páginas).
 
