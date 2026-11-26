@@ -1,0 +1,17 @@
+# Os dados desta pasta são pequenos e fazem parte do projeto: vão para o GitHub.
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*.xlsx
+
+# Layout do dashboard (enviado só sob pedido)
+powerbi/tema_protetor.json
+powerbi/fundos/
+powerbi/ROTEIRO_POWERBI.md
